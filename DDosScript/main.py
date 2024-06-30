@@ -21,4 +21,4 @@ def attack():
 
 for i in range(500): #number of threads
     thread = threading.Thread(target=attack) #create a thread
-    thread.start() #start the thread
+    thread.start() #start the thread    
