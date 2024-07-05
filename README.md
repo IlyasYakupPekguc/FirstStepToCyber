@@ -14,5 +14,6 @@ I upload my projects so that my GH page becomes more informational about how i p
 
 Thank you for reading.
 
-Source of the given 4 mini projects in this repo:
+Source of the given 5 mini projects in this repo:
+https://www.youtube.com/watch?v=YwWfKitB8aA&ab_channel=NeuralNine
 https://youtu.be/FGdiSJakIS4?si=quZHBVIACTNYSiS6
